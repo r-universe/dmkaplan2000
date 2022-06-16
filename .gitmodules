@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ConnMatTools"]
+	path = ConnMatTools
+	url = https://github.com/dmkaplan2000/connmattools
+	shallow = true
+	registered = true
+[submodule "knitrdata"]
+	path = knitrdata
+	url = https://github.com/dmkaplan2000/knitrdata
+	shallow = true
+	registered = true
+[submodule "RH2"]
+	path = RH2
+	url = https://github.com/dmkaplan2000/rh2
+	shallow = true
+	registered = true
+[submodule "starticles"]
+	path = starticles
+	url = https://github.com/dmkaplan2000/starticles
+	shallow = true
+	registered = true

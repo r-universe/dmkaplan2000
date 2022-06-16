@@ -1,0 +1,18 @@
+[
+  {
+    "package": "ConnMatTools",
+    "oncran": true
+  },
+  {
+    "package": "knitrdata",
+    "oncran": true
+  },
+  {
+    "package": "RH2",
+    "oncran": true
+  },
+  {
+    "package": "starticles",
+    "oncran": true
+  }
+]
