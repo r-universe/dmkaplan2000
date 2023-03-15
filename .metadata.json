@@ -1,10 +1,10 @@
 [
   {
-    "package": "starticles",
+    "package": "ConnMatTools",
     "oncran": true
   },
   {
-    "package": "ConnMatTools",
+    "package": "knitrdata",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "knitrdata",
+    "package": "starticles",
     "oncran": true
   }
 ]
