@@ -5,12 +5,12 @@
 [submodule "ConnMatTools"]
 	path = ConnMatTools
 	url = https://github.com/dmkaplan2000/connmattools
-[submodule "knitrdata"]
-	path = knitrdata
-	url = https://github.com/dmkaplan2000/knitrdata
 [submodule "RH2"]
 	path = RH2
 	url = https://github.com/dmkaplan2000/rh2
+[submodule "knitrdata"]
+	path = knitrdata
+	url = https://github.com/dmkaplan2000/knitrdata
 [submodule "starticles"]
 	path = starticles
 	url = https://github.com/dmkaplan2000/starticles
