@@ -11,6 +11,3 @@
 [submodule "knitrdata"]
 	path = knitrdata
 	url = https://github.com/dmkaplan2000/knitrdata
-[submodule "starticles"]
-	path = starticles
-	url = https://github.com/dmkaplan2000/starticles
